@@ -2,5 +2,6 @@ Belajar Git bareng ChatGPT
 Ini baris dari fitur-1
 Baris dari fitur A
 Baris dari fitur B(nabrak fitur A)
+Baris update di branch main
 
 Perubahan dari user-b di baris yang sama
