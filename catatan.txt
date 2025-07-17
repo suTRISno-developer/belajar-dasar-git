@@ -1,3 +1,5 @@
 Belajar Git bareng ChatGPT
 Ini baris dari fitur-1
 Baris dari fitur A
+Baris dari fitur B(nabrak fitur A)
+
